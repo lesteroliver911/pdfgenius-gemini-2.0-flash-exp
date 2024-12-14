@@ -1,4 +1,4 @@
-# PDFGenius with Gemini 2.0 Flash
+# PDFGenius with Gemini 2.0 Flash Exp
 
 Turn any PDF into an interactive knowledge base using Google's latest `gemini-2.0-flash-exp` model. This RAG application leverages advanced vision capabilities to analyze PDFs and answer questions about their content.
 
