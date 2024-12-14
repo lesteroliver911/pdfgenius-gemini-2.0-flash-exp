@@ -1,0 +1,10 @@
+google-generativeai
+Pillow
+numpy
+pandas
+tqdm
+unstructured
+ipython
+ratelimit
+opencv-python
+python-dotenv
